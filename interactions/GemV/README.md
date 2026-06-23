@@ -1,0 +1,1 @@
+PDF transcripts of the Gemini 3 (fast-response version) interactions.
